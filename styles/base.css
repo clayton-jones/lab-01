@@ -1,0 +1,12 @@
+* {
+  outline: black 1px solid;
+  text-align: center;
+}
+/* body {
+} */
+
+main {
+  background-color: gray;
+  width: 480px;
+  margin: auto;
+}
