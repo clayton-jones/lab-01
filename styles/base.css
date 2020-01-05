@@ -1,12 +1,9 @@
 * {
-  outline: black 1px solid;
+  outline: rgba(0, 0, 0, 0.336) 1px solid;
   text-align: center;
 }
-/* body {
-} */
 
-main {
-  background-color: gray;
+body {
   width: 480px;
   margin: auto;
 }
