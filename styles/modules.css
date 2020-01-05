@@ -2,18 +2,24 @@
   width: 480px;
   height: 75px;
   line-height: 75px;
+  outline: black 1px solid;
+
 }
 
 #boxB {
   width: 480px;
   height: 150px;
   line-height: 150px;
+  outline: black 1px solid;
+
 }
 
 #CD-container > section {
   width: 480px;
   height: 125px;
   line-height: 125px;
+  outline: black 1px solid;
+
 }
 
 #EF-container > section,
@@ -22,6 +28,8 @@
   height: 250px;
   line-height: 250px;
   display: inline-block;
+  outline: black 1px solid;
+
 }
 
 /* #boxE, #boxG {
