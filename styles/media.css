@@ -8,6 +8,7 @@
     width: 960px;
     height: 100px;
     line-height: 100px;
+    background-color: crimson;
   }
   
   #boxB {
@@ -16,6 +17,31 @@
     line-height: 600px;
     float: left;
     clear: left;
+    background-color: darkolivegreen;
+  }
+
+  #boxC {
+    background-color: darkslateblue;
+  }
+
+  #boxD {
+    background-color: fuchsia;
+  }
+
+  #boxE {
+    background-color: gold;
+  }
+
+  #boxF {
+    background-color: gray;
+  }
+
+  #boxG {
+    background-color: honeydew;
+  }
+
+  #boxH {
+    background-color: orchid;
   }
 
   #CD-container > section {
@@ -41,6 +67,7 @@
     width: 760px;
     height: 150px;
     line-height: 150px;
+    background-color: powderblue;
   }
 
   #CD-container,
