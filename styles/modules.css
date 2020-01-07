@@ -3,7 +3,7 @@
   height: 7.109004739%;
   line-height: 75px;
   background-color: teal;
-
+  clear: left;
 }
 
 #boxB {
@@ -32,7 +32,7 @@
   width: 50%;
   height: 23.696682464%;
   line-height: 250px;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 #boxE {
