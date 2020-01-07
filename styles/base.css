@@ -7,3 +7,7 @@ body {
   width: 480px;
   margin: auto;
 }
+
+section {
+  float: left;
+}
